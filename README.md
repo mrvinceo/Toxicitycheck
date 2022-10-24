@@ -1,7 +1,8 @@
 ## What this Moodle plugin is for ##
 
 This Moodle plugin displays a message to any user submitting a forum post, 
-that scores highly in te Perspective API's toxicity score.
+that scores highly in te Perspective API's toxicity score. Optionally issues alert
+to an email account for high scores in given criteria.
 
 ## Supported Moodle Versions ##
 
